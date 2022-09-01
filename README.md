@@ -11,7 +11,7 @@ At the moment, the bot has the following features in it's arsenal.
 The bot has a built-in captcha for new users in the chat and a welcome message.
 It also checks if the user is in the CAS list. :cop:
 
-### Распознавание речи :speaking_head:
+### Speech recognition :speaking_head:
 С помощью [VK Cloud Solutions](https://mcs.mail.ru). Бот может распознавать голосовые сообщения.
 
 ### Команды :monocle_face:

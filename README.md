@@ -41,7 +41,7 @@ It also checks if the user is in the CAS list. :cop:
 >```
 ## Launching your bot :nerd_face:
 Можно запустить бота напрямую на [Heroku](https://heroku.com/) или самостоятельно!
-### Запуск на Heroku :dancer:
+### Deploy on Heroku :dancer:
 Нажимаем на кнопку и переходим к настройкам  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ### Настройка Heroku :mechanic:

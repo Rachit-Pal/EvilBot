@@ -39,7 +39,7 @@ It also checks if the user is in the CAS list. :cop:
 >   telegram.bot.webhook.url = ""
 >   telegram.bot.webhook.port = 8080
 >```
-## Запуск своего бота :nerd_face:
+## Launching your bot :nerd_face:
 Можно запустить бота напрямую на [Heroku](https://heroku.com/) или самостоятельно!
 ### Запуск на Heroku :dancer:
 Нажимаем на кнопку и переходим к настройкам  

@@ -8,7 +8,7 @@ plugins {
     kotlin("plugin.spring") version kotlinVersion
     kotlin("plugin.jpa") version kotlinVersion
     id("org.springframework.boot") version "2.7.3"
-    id("io.spring.dependency-management") version "1.0.11.RELEASE"
+    id("io.spring.dependency-management") version "1.0.13.RELEASE"
     id("info.solidsoft.pitest") version "1.6.0"
 }
 

@@ -3,7 +3,7 @@ Hello, this is the repository of the best cart bot! :heart_eyes:
 The bot is multifunctional and can work in multiple chats at the same time! :yum:
 You can add [@zloychatbot](https://t.me/zloychatbot) to your chat or clone the repository to create his!:star_struck
 
-## Возможности Злого Бота
+## Evil Bot Features
 На данный момент бот имеет в своем арсенале следующие возможности:
 ### Капча :astonished:
 *Для работы боту необходимы права администратора в чате!*

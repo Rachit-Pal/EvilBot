@@ -31,7 +31,7 @@ It also checks if the user is in the CAS list. :cop:
 *Для работы следующих команд нужно быть администратором чата и боту необходимы права администратора:*
 * */block_stickerpack* - заблокировать стикерпак в чате;
 * */unblock_stickerpack* - разблокировать стикерпак в чате;
-### Тригеры :sunglasses:
+### Triggers :sunglasses:
 У бота есть обширный список слов тригеров на которые он реагирует и отвечает.
 ### Webhook :yum:
 Также бот умеет в [webhook](https://core.telegram.org/bots/api#setwebhook):

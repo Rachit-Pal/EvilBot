@@ -55,7 +55,7 @@ dependencies {
     implementation("io.github.resilience4j:resilience4j-kotlin:1.7.1")
     implementation("io.github.resilience4j:resilience4j-ratelimiter:1.7.1")
 
-    testImplementation("io.kotest:kotest-runner-junit5:4.4.3")
+    testImplementation("io.kotest:kotest-runner-junit5:4.6.4")
     testImplementation("io.kotest:kotest-assertions-core:4.6.4")
     testImplementation("io.kotest:kotest-plugins-pitest:4.4.3")
     testImplementation("io.mockk:mockk:1.10.6")

@@ -1,7 +1,7 @@
 # Злой Бот
-Привет, это репозиторий лучшего бота в телеге!:heart_eyes:  
-Бот многофункционален и может работать в нескольких чатах одновременно!:yum:  
-Можете добавить [@zloychatbot](https://t.me/zloychatbot) в свой чат или склонировать репозиторий для создания своего!:star_struck:
+Hello, this is the repository of the best cart bot! :heart_eyes:
+The bot is multifunctional and can work in multiple chats at the same time! :yum:
+You can add [@zloychatbot](https://t.me/zloychatbot) to your chat or clone the repository to create his!:star_struck
 
 ## Возможности Злого Бота
 На данный момент бот имеет в своем арсенале следующие возможности:

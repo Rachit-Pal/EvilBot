@@ -5,7 +5,7 @@ You can add [@zloychatbot](https://t.me/zloychatbot) to your chat or clone the r
 
 ## Evil Bot Features
 At the moment, the bot has the following features in it's arsenal.
-### Капча :astonished:
+### Captcha :astonished:
 *Для работы боту необходимы права администратора в чате!*
 
 В бот встроена капча для новых юзеров в чате и приветственное сообщение.  

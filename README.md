@@ -6,10 +6,10 @@ You can add [@zloychatbot](https://t.me/zloychatbot) to your chat or clone the r
 ## Evil Bot Features
 At the moment, the bot has the following features in it's arsenal.
 ### Captcha :astonished:
-*Для работы боту необходимы права администратора в чате!*
+*The bot needs administrator rights in the chat to work!*
 
-В бот встроена капча для новых юзеров в чате и приветственное сообщение.  
-Также проверяется есть ли юзер в списке [CAS](https://cas.chat/). :cop:
+The bot has a built-in captcha for new users in the chat and a welcome message.
+It also checks if the user is in the CAS list. :cop:
 
 ### Распознавание речи :speaking_head:
 С помощью [VK Cloud Solutions](https://mcs.mail.ru). Бот может распознавать голосовые сообщения.

@@ -14,7 +14,7 @@ It also checks if the user is in the CAS list. :cop:
 ### Speech recognition :speaking_head:
 С помощью [VK Cloud Solutions](https://mcs.mail.ru). Бот может распознавать голосовые сообщения.
 
-### Команды :monocle_face:
+### Teams :monocle_face:
 * */statistic* - статистика сообщений юзера в чате;
 * */top10* - топ 10 спамеров в чате;
 * */me* - бот будет писать за тебя;
